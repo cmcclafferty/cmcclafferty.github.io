@@ -1,5 +1,5 @@
 ---
-title: "Pages"
+title: "skills"
 layout: single
 permalink: /pages/
 sidebar:
