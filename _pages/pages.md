@@ -1,11 +1,11 @@
 ---
 title: "Skills"
 layout: single
-permalink: /Pages/
+permalink: /pages/
 sidebar:
   title: "Page Templates"
   nav:
-    - Pages
+    - pages
 ---
 
 This section shows each available layout template so students can compare them.
