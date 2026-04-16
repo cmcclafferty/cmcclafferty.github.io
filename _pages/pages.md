@@ -5,7 +5,7 @@ permalink: /Pages/
 sidebar:
   title: "Page Templates"
   nav:
-    - Skills
+    - Pages
 ---
 
 This section shows each available layout template so students can compare them.
