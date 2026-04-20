@@ -1,7 +1,7 @@
 ---
 title: "Skills"
 layout: single
-permalink: /pages/
+permalink: /Skills/
 sidebar:
   title: "Page Templates"
   nav:
