@@ -9,8 +9,8 @@ main:
         url: /projects/game-jam/
       - title: "Capstone"
         url: /projects/capstone/
-  - title: "Pages"
-    url: /pages/
+  - title: "Skills"
+    url: /Skills/
     children:
       - title: "Default Layout"
         url: /pages/default/
