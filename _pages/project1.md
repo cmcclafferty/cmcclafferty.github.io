@@ -3,7 +3,7 @@ title: "Project 1"
 layout: single
 permalink: /projects/project1/
 sidebar:
-  title: "Projects"
+  title: "Project 1"
   nav:
     - project1
 
