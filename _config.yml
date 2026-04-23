@@ -52,7 +52,7 @@ author:
 footer: # Site footer
   links: # Footer links
     - label: "Twitter" # Twitter link
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-linkdin-square"
       url: "https://www.linkedin.com/in/charlie-mcclafferty-9246293b3/"
       target: "_blank"
     - label: "Facebook" # Facebook link
