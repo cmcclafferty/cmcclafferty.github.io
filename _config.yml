@@ -53,7 +53,7 @@ footer: # Site footer
   links: # Footer links
     - label: "Twitter" # Twitter link
       icon: "fab fa-fw fa-twitter-square"
-      url: "www.linkedin.com/in/charlie-mcclafferty-9246293b3/"
+      url: "url: "https://www.linkedin.com/in/charlie-mcclafferty-9246293b3/"
       target: "_blank"
     - label: "Facebook" # Facebook link
       icon: "fab fa-fw fa-facebook-square"
