@@ -108,7 +108,7 @@ sass:
   style: compressed
 
 # Outputting (URL style)
-permalink: /:title/
+permalink: none
 
 # Plugins (GitHub Pages supports these)
 plugins:
