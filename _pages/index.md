@@ -24,7 +24,7 @@ feature_row:
   url="/projects-project1/"
   label="View Project 1"
   class="btn--primary"
-%}
+  %}
   - image_path: /assets/images/P21.png
     alt: "placeholder image 2"
     title: "Project 2"
