@@ -26,8 +26,8 @@ main:
 projects:
   - title: "Project 1"
     url: /projects/project1/
-  - title: "Capstone"
-    url: /projects/capstone/
+  - title: "Project 2"
+    url: /projects/project2/
 
 # Sidebar menu for the Pages page
 pages:
