@@ -20,9 +20,6 @@ feature_row:
     alt: "placeholder image 1"
     title: "Project 1"
     excerpt: "Here you can view the very first game I made."
-  url="/projects-project1/"
-  label="View Project 1"
-  class="btn--primary"
   - image_path: /assets/images/P21.png
     alt: "placeholder image 2"
     title: "Project 2"
