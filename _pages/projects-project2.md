@@ -3,9 +3,9 @@ title: "Project 2"
 layout: single
 permalink: /projects/project2/
 sidebar:
-  title: "Projects"
+  title: "Project 2"
   nav:
-    - projects
+    - project2
 ---
 
 This page is another project page that is nested within Projects.
