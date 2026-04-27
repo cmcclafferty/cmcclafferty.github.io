@@ -29,6 +29,10 @@ projects:
   - title: "Project 2"
     url: /projects/project2/
 
+Skills:
+  - title: "Key Skills"
+    url: /Skills/keyskills/
+
 # Sidebar menu for the Pages page
 pages:
   - title: "Default Layout"
