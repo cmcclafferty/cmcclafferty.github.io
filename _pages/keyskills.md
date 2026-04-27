@@ -1,7 +1,7 @@
 ---
 title: "Key Skills"
 layout: single
-permalink: /keyskills/
+permalink: /Skills/keyskills/
 sidebar:
   title: "Key Skills"
   nav:
