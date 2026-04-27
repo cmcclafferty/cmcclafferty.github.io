@@ -5,19 +5,17 @@ main:
   - title: "Projects"
     url: /projects/
     children:
-      - title: "Game Jam"
-        url: /projects/game-jam/
-      - title: "Capstone"
-        url: /projects/capstone/
+      - title: "Project 1"
+        url: /projects/project1/
+      - title: "Project 2"
+        url: /projects/project2/
   - title: "Skills"
     url: /Skills/
     children:
-      - title: "Default Layout"
-        url: /pages/default/
-      - title: "Single Layout"
-        url: /pages/single/
-      - title: "Splash Layout"
-        url: /pages/splash/
+      - title: "Key Skills"
+        url: /Skills/keyskills/
+      - title: "Soft Skills"
+        url: /Skills/softskills/
   - title: "Contact"
     url: /Contact/
  
