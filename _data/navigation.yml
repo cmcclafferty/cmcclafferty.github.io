@@ -29,11 +29,35 @@ projects:
   - title: "Project 2"
     url: /projects/project2/
 
+    project1:
+  - title: "Projects"
+    url: /project1/projects/
+  - title: "Project 2"
+    url: /project1/project2/
+
+    project2:
+  - title: "Projects"
+    url: /project2/projects/
+  - title: "Project 1"
+    url: /project2/project1/
+
 Skills:
   - title: "Key Skills"
     url: /Skills/keyskills/
   - title: "Soft Skills"
     url: /Skills/softskills/
+
+    keyskills:
+  - title: "Skills"
+    url: /keyskills/Skills/
+  - title: "Soft Skills"
+    url: /keyskills/softskills/
+
+    softskills:
+  - title: "Skills"
+    url: /softskills/Skills/
+  - title: "key Skills"
+    url: /softskills/Keyskills/
 
 # Sidebar menu for the Pages page
 pages:
