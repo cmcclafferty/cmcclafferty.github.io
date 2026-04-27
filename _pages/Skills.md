@@ -3,7 +3,7 @@ title: "Skills"
 layout: single
 permalink: /Skills/
 sidebar:
-  title: "Page Templates"
+  title: "Skills"
   nav:
     - Skills
 ---
