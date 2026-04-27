@@ -1,7 +1,7 @@
 ---
 title: "Soft Skills"
 layout: single
-permalink: /softskills/
+permalink: /Skills/softskills/
 sidebar:
   title: "Soft Skills"
   nav:
