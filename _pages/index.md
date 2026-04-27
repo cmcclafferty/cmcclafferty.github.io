@@ -24,7 +24,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Project 2"
     excerpt: "This is a 3D landscape I created of a Japanese temple."
-    url: "#test-link"
+    url: "/projects/project2/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/skillsicon.jpg
