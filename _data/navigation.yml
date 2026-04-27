@@ -27,6 +27,18 @@ projects:
   - title: "Project 2"
     url: /projects/project2/
 
+    project1:
+  - title: "Projects"
+    url: /project1/projects/
+  - title: "Project 2"
+    url: /project1/project2/
+
+    project2:
+  - title: "Projects"
+    url: /project2/projects/
+  - title: "Project 1"
+    url: /project2/project1/
+
 Skills:
   - title: "Key Skills"
     url: /Skills/keyskills/
