@@ -32,6 +32,8 @@ projects:
 Skills:
   - title: "Key Skills"
     url: /Skills/keyskills/
+  - title: "Soft Skills"
+    url: /Skills/softskills/
 
 # Sidebar menu for the Pages page
 pages:
