@@ -20,6 +20,9 @@ feature_row:
     alt: "placeholder image 1"
     title: "Project 1"
     excerpt: "Here you can view the very first game I made."
+    url: "/projects/project1/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/P21.png
     alt: "placeholder image 2"
     title: "Project 2"
@@ -31,6 +34,9 @@ feature_row:
     alt: "placeholder image 4"
     title: "Skills"
     excerpt: "This is a list of my key and soft skills."
+    url: "/Skills/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
