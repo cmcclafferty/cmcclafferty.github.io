@@ -11,18 +11,18 @@ gallery_gameplay2:
   - url: /assets/images/P21.png
     image_path: /assets/images/P21.png
     alt: "Gameplay 1"
-    title: "Core loop"
-    caption: "Core loop"
+    title: "fig 1"
+    caption: "fig 1"
   - url: /assets/images/P22.png
     image_path: /assets/images/P22.png
     alt: "Gameplay 2"
-    title: "Challenge"
-    caption: "Challenge"
+    title: "fig 2"
+    caption: "fig 2"
   - url: /assets/images/P23.png
     image_path: /assets/images/P23.png
     alt: "Gameplay 3"
-    title: "Power-ups"
-    caption: "Power-ups"
+    title: "fig 3"
+    caption: "fig 3"
     
 ---
 This page is another project page that is nested within Projects.
