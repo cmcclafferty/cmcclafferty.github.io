@@ -7,7 +7,7 @@ sidebar:
   nav:
     - project2
 
-    gallery_gameplay2:
+gallery_gameplay2:
   - url: /assets/images/P21.png
     image_path: /assets/images/P21.png
     alt: "Gameplay 1"
