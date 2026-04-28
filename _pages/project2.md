@@ -27,3 +27,5 @@ gallery_gameplay2:
 ---
 This page is another project page that is nested within Projects.
 {% include gallery id="gallery_gameplay2" layout="third" thumb_height="180px" %}
+Here's a video I made that explains and shows off the project in more detail.
+{% include video id="Qtllo0Xd5io" provider="youtube" %}
