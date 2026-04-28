@@ -25,6 +25,5 @@ sidebar:
     caption: "Power-ups"
     
 ---
-
 This page is another project page that is nested within Projects.
 {% include gallery id="gallery_gameplay2" layout="third" thumb_height="180px" %}
