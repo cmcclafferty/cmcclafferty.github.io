@@ -28,7 +28,7 @@ gallery_gameplay:
     alt: "Gameplay 4"
     title: "Boss arena"
     caption: "Boss arena"
-{% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
+    {% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
 
 ---
 This is a project page that is a child of Projects. Take a look at `projects-game-jam.md` to see how the sidebar key displays the nested navigation.
