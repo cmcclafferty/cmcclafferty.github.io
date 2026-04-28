@@ -11,23 +11,23 @@ gallery_gameplay:
   - url: /assets/images/P11.png
     image_path: /assets/images/P11.png
     alt: "Gameplay 1"
-    title: "Core loop"
-    caption: "Core loop"
+    title: "fig 1"
+    caption: "fig 1"
   - url: /assets/images/P12.png
     image_path: /assets/images/P12.png
     alt: "Gameplay 2"
-    title: "Challenge"
+    title: "fig 2"
     caption: "Challenge"
   - url: /assets/images/P13.png
     image_path: /assets/images/P13.png
     alt: "Gameplay 3"
-    title: "Power-ups"
-    caption: "Power-ups"
+    title: "fig 3"
+    caption: "fig 3"
   - url: /assets/images/P14.png
     image_path: /assets/images/P14.png
     alt: "Gameplay 4"
-    title: "Boss arena"
-    caption: "Boss arena"
+    title: "fig 4"
+    caption: "fig 4"
 
 ---
 This is a project page that is a child of Projects. Take a look at `projects-game-jam.md` to see how the sidebar key displays the nested navigation.
