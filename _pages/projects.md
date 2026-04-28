@@ -10,9 +10,9 @@ sidebar:
 
 Welcome to the project page! 
 
-on the left you can on my projects. 
+In the left you can on my projects. 
 
-have a look!
+Have a look!
 
 
 
