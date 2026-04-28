@@ -23,6 +23,7 @@ sidebar:
     alt: "Gameplay 3"
     title: "Power-ups"
     caption: "Power-ups"
+    
 ---
 
 This page is another project page that is nested within Projects.
