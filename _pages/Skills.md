@@ -8,5 +8,6 @@ sidebar:
     - Skills
 ---
 
-This section shows each available layout template so students can compare them.
-Use the sidebar to open each example.
+Welcome! This is the skills page.
+
+On the left I have made a list of key and soft skills of mine.
