@@ -17,7 +17,7 @@ gallery_gameplay:
     image_path: /assets/images/P12.png
     alt: "Gameplay 2"
     title: "fig 2"
-    caption: "Challenge"
+    caption: "fig 2"
   - url: /assets/images/P13.png
     image_path: /assets/images/P13.png
     alt: "Gameplay 3"
