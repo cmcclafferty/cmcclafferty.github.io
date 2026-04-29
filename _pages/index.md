@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/welcomepic.webp
   actions:
     - label: "Download CV"
-      url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
+      url: "https://ulster-my.sharepoint.com/:w:/r/personal/mcclafferty-c5_ulster_ac_uk/Documents/Charlie%20McClafferty%20CV.docx?d=wa8d3d52a903446328464210a34d7c09b&csf=1&web=1&e=hNbFuu"
       target: "_blank"
 
 
