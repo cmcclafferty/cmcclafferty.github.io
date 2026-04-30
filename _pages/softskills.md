@@ -7,7 +7,7 @@ sidebar:
   nav:
     - softskills
 
-Skills
+Skills:
   - name: "Communication"
     text: "I know how to inform and update my progress in tasks, which allows me to work well in a team."
   - name: "Time Management"
