@@ -8,12 +8,21 @@ sidebar:
     - softskills
 
 skills:
-  - name: "Communication"
+  - name: "Soft Skill 1"
+    icon: ""
+    badges: ["Communication"]
     text: "I know how to inform and update my progress in tasks, which allows me to work well in a team."
-  - name: "Time Management"
+    years: 1
+  - name: "Soft Skill 2"
+    icon: ""
+    badges: ["Time Management"]
     text: "I am well versed in allocating time when I will do parts of a task or project."
-  - name: "Productivity"
+    years: 1
+  - name: "Soft Skill 3"
+    icon: ""
+    badges: ["Productivity"]
     text: "When working on tasks I organize what needs to be done so I can plan what I should do in an efficient manner."
+    years: 1
 ---
 
 This section shows each available layout template so students can compare them.
