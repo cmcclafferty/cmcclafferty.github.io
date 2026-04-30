@@ -17,7 +17,7 @@
           </ul>
         {% endif %}
         {% if skill.text %}
-          <p class="skill-card__text">{{ skill.text | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+          <p class="skill-card__text">{{ skill.text }}</p>
         {% endif %}
         {% if skill.years %}
           <div class="skill-card__meta">
