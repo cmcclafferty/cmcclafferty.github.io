@@ -10,13 +10,18 @@ sidebar:
 skills:
   - name: "Unity"
     icon: "fab fa-fw fa-unity"
-    badges: ["C#", "Game Dev"]
-    text: "Built multiple prototypes and a published jam game."
-    years: 2
+    badges: ["C#", "Game Dev", "2D&3D Game Development"]
+    text: "Built multiple games and i am currently learning C#"
+    years: 1
   - name: "Game Design"
     icon: "fas fa-fw fa-gamepad"
     badges: ["Game Mechanics", "Levels", "UI"]
     text: "Designed mechanics, levels, and player feedback loops."
+    level_label: "Beginner"
+  - name: "Art"
+    icon: ""
+    badges: ["Pixel Art"]
+    text: "Made pixel art for 2D games."
     level_label: "Beginner"
 ---
 
