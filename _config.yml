@@ -60,8 +60,8 @@ footer: # Site footer
       # url:
       target: "_blank"
     - label: "GitHub" # GitHub link
-      icon: "fab fa-fw fa-github"
-      # url:
+      icon: "fa-brands fa-github"
+      url: "https://github.com/cmcclafferty"
       target: "_blank"
     - label: "GitLab" # GitLab link
       icon: "fab fa-fw fa-gitlab"
