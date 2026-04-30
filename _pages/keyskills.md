@@ -25,6 +25,4 @@ skills:
     level_label: "Beginner"
 ---
 
-This section shows each available layout template so students can compare them.
-Use the sidebar to open each example.
 {% include skills skills=page.skills %}
