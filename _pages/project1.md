@@ -36,7 +36,7 @@ In fig 1 it shows the character collecting money. There is also some basic UI fo
 
 In fig 2 it shows the enemy I added. In the game the enemy did damage the player which causes the healthbar to go down.
 
-In fig 3 it shows some of the lighting in the game I added, the neon lights made the cyberpunk aesthetic more promineny.
+In fig 3 it shows some of the lighting in the game I added, the neon lights made the cyberpunk aesthetic more prominent.
 
 In fig 4 it shows the win screen that popped up when the player finished the game.
 {% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
