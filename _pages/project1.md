@@ -30,9 +30,15 @@ gallery_gameplay:
     caption: "fig 4"
 
 ---
-This is the first game I have ever made, for this assignment I learned many basic and some more complex skills.
+This is the first game I have ever made, for this assignment I learned many basic and some more complex skills in game development.
 
-In fig 1
+In fig 1 it shows the character collecting money. There is also some basic UI for a money counter and a healthbar.
+
+In fig 2 it shows the enemy I added. In the game the enemy did damage the player which causes the healthbar to go down.
+
+In fig 3 it shows some of the lighting in the game I added, the neon lights made the cyberpunk aesthetic more promineny.
+
+In fig 4 it shows the win screen that popped up when the player finished the game.
 {% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
 Here's a video I made that explains and shows off my game in more detail.
 {% include video id="DkxjeM9n940" provider="youtube" %}
