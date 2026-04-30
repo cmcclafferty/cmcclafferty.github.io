@@ -34,7 +34,7 @@ This is the first game I have ever made, for this assignment I learned many basi
 
 This project was my final assignment for my first module in university, it helped me with sharpening my skills with C#, level design, UI Design.
 
-also this assignment required me to make a video, this taught me the very basics of editing, filming and audio.
+Also this assignment required me to make a video, this taught me the very basics of editing, filming and audio.
 
 In fig 1 it shows the character collecting money. There is also some basic UI for a money counter and a healthbar.
 
