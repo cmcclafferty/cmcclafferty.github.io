@@ -29,6 +29,8 @@ This is the first 3D project I did in unity, I think it turned out better than e
 
 This project was inspired by Japanese architecture, specifically a Japanese temple, I used many references to try and recreate a temple to the best of my abilities.
 
+This assignment was for my second module in university, this wasnt really about coding, but more creativity.
+
 There are many small details to the main structure, such as the roof, doors, and windows, which had small parts coming out to add detail and more texture.
 
 There are other details to give the project more life, such as the hill that the main structure sits on. I made the hill using a tool which sculpted a flat plain to my desired shape.
