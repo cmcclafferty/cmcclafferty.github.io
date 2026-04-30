@@ -25,7 +25,15 @@ gallery_gameplay2:
     caption: "fig 3"
     
 ---
-This page is another project page that is nested within Projects.
+This is the first 3D project I did in unity, I think it turned out better than expected.
+
+This project was inspired by Japanese architecture, specifically a Japanese temple, I used many references to try and recreate a temple to best of my abilities.
+
+There are many small details to the main structure, such as the roof, doors, and windows, which had small parts coming out to add detail and more texture.
+
+There are other details to give the project more life, such ass the hill that the main structure sits on. I made the hill using a tool which sculpted a flat plain to my desired shape.
+
+The addition of trees and water made the whole scene seem more like an environment.
 {% include gallery id="gallery_gameplay2" layout="third" thumb_height="180px" %}
 Here's a video I made that explains and shows off the project in more detail.
 {% include video id="Qtllo0Xd5io" provider="youtube" %}
