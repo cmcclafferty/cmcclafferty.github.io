@@ -30,7 +30,9 @@ gallery_gameplay:
     caption: "fig 4"
 
 ---
-This is a project page that is a child of Projects. Take a look at `projects-game-jam.md` to see how the sidebar key displays the nested navigation.
+This is the first game I have ever made, for this assignment I learned many basic and some more complex skills.
+
+In fig 1
 {% include gallery id="gallery_gameplay" layout="third" thumb_height="180px" %}
 Here's a video I made that explains and shows off my game in more detail.
 {% include video id="DkxjeM9n940" provider="youtube" %}
